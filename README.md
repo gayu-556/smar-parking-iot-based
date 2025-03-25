@@ -1,1 +1,1 @@
-# smar-parking-iot-based
+# smart-parking-iot-based
